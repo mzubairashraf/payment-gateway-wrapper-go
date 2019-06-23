@@ -1,0 +1,12 @@
+{
+
+    "port" : "8080",
+    "AuthorizeDotNetConfig" : {
+        "APILoginId"  : "",
+        "TransactionKey"  : "",
+        "Endpoint" : "https://apitest.authorize.net/xml/v1/request.api"
+    },
+    "VantivConfig" : {
+        "Endpoint" : "https://gwapi.demo.securenet.com/api/Payments"
+    }
+}
